@@ -49,10 +49,7 @@ cd LLM-Powered-Automated-Code-Review-System
 pip install -r requirements.txt
 
 ## Set your OpenAI API key as an environment variable:
-```bash
 export OPENAI_API_KEY=your_key_here
-
 ## Run the application:
-```bash
 streamlit run app.py
 
