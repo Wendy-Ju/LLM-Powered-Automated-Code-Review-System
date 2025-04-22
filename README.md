@@ -47,10 +47,10 @@ Clone the repository and install dependencies:
 git clone https://github.com/Wendy-Ju/LLM-Powered-Automated-Code-Review-System.git
 cd LLM-Powered-Automated-Code-Review-System
 pip install -r requirements.txt
-```bash
 
 ## Set your OpenAI API key as an environment variable:
 export OPENAI_API_KEY=your_key_here
+
 ## Run the application:
 streamlit run app.py
 
